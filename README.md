@@ -1,14 +1,15 @@
 # Budget
 
-A simple app for tracking income and spending in euros, made for iPhone.
+A simple app for tracking income, spending and savings in euros, made for iPhone.
 
-- Salary and other income, spending by category
-- Monthly overview: what's left, savings rate, spending per day
-- Spending by category and a 6-month income vs. spending chart
-- Monthly limits per category, with warnings at 80% and when you go over
+- **Overview:** what's left this month, spending by category, 6-month income vs. spending chart
+- **Income:** total income for the month, broken down by source (salary, частни уроци, …)
+- **Spending:** total spent, spending by category with monthly limits and warnings
+- **Savings:** saved this month (income minus spending), total savings, month by month
+- Add your own sources and categories while adding an entry (**+ New**); a matching emoji
+  is picked from the name automatically (Bulgarian and English)
 - Recurring entries (salary, rent, subscriptions) added automatically each month
-- Optional 4-digit PIN lock
-- Backup / restore file and CSV export
+- Optional 4-digit PIN lock, backup / restore file and CSV export
 - Works offline, light and dark mode
 
 ## Privacy
