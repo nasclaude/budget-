@@ -1,7 +1,7 @@
 // Offline support.
 // Pages: fetched fresh when online (so updates show right away), from the cache when offline or slow.
 // Icons and other files: from the cache, refreshed in the background.
-const CACHE = 'budget-v2';
+const CACHE = 'budget-v3';
 const FILES = ['./', './index.html', './manifest.json', './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
